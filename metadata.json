@@ -1,0 +1,6 @@
+{
+  "name": "RJ Fabrics – Handloom Sarees",
+  "description": "RJ Fabrics offers beautiful handloom sarees inspired by the traditional textile heritage of Tamil Nadu. Explore our saree collections and contact us for enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
